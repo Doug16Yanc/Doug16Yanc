@@ -14,7 +14,7 @@
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
@@ -25,18 +25,38 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
 ### Tools and devices
 
 <div align="center" valign="top"><br>
+
+![intellij](https://github.com/Doug16Yanc/Doug16Yanc/assets/129301271/b0d57bd0-58ec-489f-ac5a-90948766f2a6)
+![vs](https://github.com/Doug16Yanc/Doug16Yanc/assets/129301271/510fc5e2-3499-45d8-9b59-9f2f1b9c4de5)
+![microstudio](https://github.com/Doug16Yanc/Doug16Yanc/assets/129301271/68208b9a-e99e-4fa6-a2db-e21956d4b295)
+![jupyter](https://github.com/Doug16Yanc/Doug16Yanc/assets/129301271/a3cc22b9-2bb8-41b9-a028-38aa3fa7097a)
+![postgresql](https://github.com/Doug16Yanc/Doug16Yanc/assets/129301271/8906b98c-5e2a-4727-b4f2-38b45e170b8d)
+
   
 </div>
 
 ### Operating systems and control systems
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  
+  ![linux](https://github.com/Doug16Yanc/Doug16Yanc/assets/129301271/bb604e8f-5f6d-43f2-adc6-9ed08dc7ec8d)
+  ![git](https://github.com/Doug16Yanc/Doug16Yanc/assets/129301271/e1fc432f-519c-4462-bc8d-2b3af94b7b80)
+  ![github](https://github.com/Doug16Yanc/Doug16Yanc/assets/129301271/7f3a4122-a895-488a-b585-65a346f4d0e2)
+
+</div>
+
+### Current academy and scientific research
+
+<div align="center" valign="top"><br>
+  
+  ![python](https://github.com/Doug16Yanc/Doug16Yanc/assets/129301271/37bcd10e-cfbd-44a7-aecb-cd7953357689)
+  ![artificial_intelligence](https://github.com/Doug16Yanc/Doug16Yanc/assets/129301271/37022b8a-714f-418e-8a0f-73df3d51f80c)
+
+
 </div>
