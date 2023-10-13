@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9317A7&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D1178&height=120&section=header"/>
 
 ![Github Banner](https://github.com/Doug16Yanc/Doug16Yanc/assets/129301271/44b75400-3063-4fed-a08f-846ce713cc4d)
 
@@ -51,7 +51,7 @@
 
 </div>
 
-### Current academy and scientific research
+### Current academic and scientific research
 
 <div align="center" valign="top"><br>
   
