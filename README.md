@@ -28,7 +28,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-### Tools and devices
+### Tools, environments and devices
 
 <div align="center" valign="top"><br>
 
