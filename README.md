@@ -1,58 +1,61 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D1178&height=120&section=header"/>
+# Hi there, I'm Douglas Holanda 👋
 
-![Github Banner](https://github.com/Doug16Yanc/Doug16Yanc/assets/129301271/44b75400-3063-4fed-a08f-846ce713cc4d)
+Fullstack Developer specializing in Angular, Java ecosystem and cloud infrastructure. 
+Currently building scalable microservices and event-driven architectures with Spring Boot, 
+Kafka and AWS. Passionate about clean code and distributed systems.
 
+## 🚀 About Me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=362AC0&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Douglas+Holanda;Actually+I'm+studying;Systems+Analysis+and+Development;at+Federal+Institute;I+from+Brazil;From+now,+you+are+entering;in+zone+of+imminent+danger;Can+I+say+to+you;Welcome+or+come+back+often?:%29)](https://git.io/typing-svg)
+- 🎓 Graduated in Systems Development.
+- 💼 Working with enterprise Java applications.
+- 🌱 Focused on distributed systems and cloud-native solutions.
+- 📍 Based in Fortaleza, Ceará, Brazil.
 
-![Doug GitHub stats](https://github-readme-stats.vercel.app/api?username=Doug16Yanc&show_icons=true&theme=radical)
-<!--[TOP Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Doug16Yanc&show_icons=true&theme=radical&layout=compact) 
-<!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doug16Yanc&show_icons=true&theme=radical&layout=compact) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Doug16Yanc&layout=compact&langs_count=10&theme=radical)
+## 🛠️ Tech Stack
 
+### Backend & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-## My Skills
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Languages and your resources
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+
+### Other Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Doug16Yanc?cardType=github&theme=github-dark&fontFamily=Roboto&preferLogin=false" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Doug16Yanc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </div>
 
-### Tools, environments and devices
-
-<div align="center" valign="top"><br>
-
-![intellij](https://github.com/Doug16Yanc/Doug16Yanc/assets/129301271/b0d57bd0-58ec-489f-ac5a-90948766f2a6)
-![vs](https://github.com/Doug16Yanc/Doug16Yanc/assets/129301271/510fc5e2-3499-45d8-9b59-9f2f1b9c4de5)
-![microstudio](https://github.com/Doug16Yanc/Doug16Yanc/assets/129301271/68208b9a-e99e-4fa6-a2db-e21956d4b295)
-![jupyter](https://github.com/Doug16Yanc/Doug16Yanc/assets/129301271/a3cc22b9-2bb8-41b9-a028-38aa3fa7097a)
-![postgresql](https://github.com/Doug16Yanc/Doug16Yanc/assets/129301271/8906b98c-5e2a-4727-b4f2-38b45e170b8d)
-
-  
+🔥 Streak Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Doug16Yanc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-### Operating systems and control systems
+## 📫 Let's Connect
 
-<div align="center" valign="top"><br>
-  
-  ![linux](https://github.com/Doug16Yanc/Doug16Yanc/assets/129301271/bb604e8f-5f6d-43f2-adc6-9ed08dc7ec8d)
-  ![git](https://github.com/Doug16Yanc/Doug16Yanc/assets/129301271/e1fc432f-519c-4462-bc8d-2b3af94b7b80)
-  ![github](https://github.com/Doug16Yanc/Doug16Yanc/assets/129301271/7f3a4122-a895-488a-b585-65a346f4d0e2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/douglas-holanda-113519269)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasholand3195@gmail.com)
 
-</div>
+---
 
-### Current academic and scientific research
-
-<div align="center" valign="top"><br>
-  
-  ![python](https://github.com/Doug16Yanc/Doug16Yanc/assets/129301271/37bcd10e-cfbd-44a7-aecb-cd7953357689)
-  ![artificial_intelligence](https://github.com/Doug16Yanc/Doug16Yanc/assets/129301271/37022b8a-714f-418e-8a0f-73df3d51f80c)
-
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Doug16Yanc&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
