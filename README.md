@@ -40,7 +40,7 @@ Kafka and AWS. Passionate about clean code and distributed systems.
 
 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Doug16Yanc?cardType=github&theme=github-dark&fontFamily=Roboto&preferLogin=false" />
+  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Doug16Yanc?cardType=github&theme=radical&fontFamily=Roboto&preferLogin=false" />
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Doug16Yanc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </div>
 
